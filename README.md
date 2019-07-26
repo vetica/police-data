@@ -10,7 +10,7 @@ This projects hopes to achieve the following:
 1. What areas of South Carolina have higher rates of police shootings?
 2. Are there certain law enforcement agencies that have higher rates of police shootings?
 3. Have incidents of police shootings risen since 2009?
-4. Is there a correlation between police shootings and the race of the officers or suspects?
+4. Is there a correlation between police shootings and the ethnicity of the suspects?
 5. Is there a correlation between police shootings and the type of incident the officer is responding to?
 
 ## Steps to run the file
@@ -25,3 +25,7 @@ Run "Police_Data.ipynb"
 4. pandas
 5. numpy
 6. bokeh
+7. datetime
+8. math
+
+
