@@ -14,9 +14,9 @@ This projects hopes to achieve the following:
 5. Is there a correlation between police shootings and the type of incident the officer is responding to?
 
 ## Steps to run the file
-Pull repo from https://github.com/vetica/police-data
-Open Jupyter Notebooks
-Run "Police_Data.ipynb"
+1. Pull repo from https://github.com/vetica/police-data
+2. Open Jupyter Notebooks
+3. Run "Police_Data.ipynb"
 
 ## Dependencies
 1. os
